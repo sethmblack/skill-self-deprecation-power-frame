@@ -4,7 +4,8 @@ description: Transform personal vulnerabilities into powerful comedy material by
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4932
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
